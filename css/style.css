@@ -1,0 +1,12 @@
+.row {
+    padding: 8px;
+    border: 1px solid black;
+    width: 10px;
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.blue {
+    background-color: lightblue;
+}
+
